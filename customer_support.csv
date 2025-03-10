@@ -1,0 +1,101 @@
+﻿call_agent,during_call_wait_time,incoming_call_wait_time,gender,call_purpose,call_rating,region,time_window
+John Walker,6,1,Male,Complaint,4,North,2pm-5pm
+Jane Smith,16,6,Female,Sales Support,2,South,12pm-3pm
+Jimmy Town,15,1,Male,Product Support,4,South,8am-10am
+Kate Olsen ,7,5,Female,Product Support,1,North,9am-11am
+Andrea Dean ,13,7,Female,Product Support,5,South,7pm-9pm
+Heather Green ,3,3,Female,Sales Support,4,North,5pm-7pm
+Dave Trellis ,10,4,Male,Product Support,2,North,12pm-3pm
+John Walker,2,3,Male,Product Support,5,North,8am-10am
+Jane Smith,3,2,Female,Complaint,3,South,9am-11am
+Jimmy Town,13,2,Male,Product Support,5,North,7pm-9pm
+Kate Olsen ,7,6,Female,Sales Support,1,South,5pm-7pm
+Andrea Dean ,21,4,Female,Complaint,4,South,2pm-5pm
+Heather Green ,13,4,Female,Product Support,1,South,12pm-3pm
+Dave Trellis ,18,5,Male,Product Support,5,North,8am-10am
+John Walker,3,9,Male,Complaint,3,North,9am-11am
+Jane Smith,9,1,Female,Sales Support,1,North,7pm-9pm
+Jimmy Town,0,1,Male,Product Support,5,North,5pm-7pm
+Kate Olsen ,9,4,Female,Product Support,5,South,2pm-5pm
+Andrea Dean ,12,5,Female,Product Support,4,South,2pm-5pm
+Heather Green ,11,3,Female,Sales Support,2,North,12pm-3pm
+Dave Trellis ,1,4,Male,Product Support,3,South,8am-10am
+John Walker,27,2,Male,Product Support,4,South,9am-11am
+Jane Smith,1,6,Female,Product Support,4,North,7pm-9pm
+Jimmy Town,35,7,Male,Complaint,1,South,5pm-7pm
+Kate Olsen ,33,1,Female,Product Support,2,North,2pm-5pm
+Andrea Dean ,3,4,Female,Sales Support,3,South,12pm-3pm
+Heather Green ,23,2,Female,Complaint,1,North,8am-10am
+Dave Trellis ,30,3,Male,Product Support,1,North,9am-11am
+John Walker,20,1,Male,Product Support,1,South,7pm-9pm
+Jane Smith,31,1,Female,Complaint,4,North,5pm-7pm
+Jimmy Town,2,4,Male,Sales Support,3,South,2pm-5pm
+Kate Olsen ,5,8,Female,Product Support,4,South,12pm-3pm
+Andrea Dean ,20,3,Female,Product Support,4,South,8am-10am
+Heather Green ,28,4,Female,Product Support,5,North,9am-11am
+Dave Trellis ,19,7,Male,Sales Support,2,North,7pm-9pm
+John Walker,34,2,Male,Product Support,1,North,5pm-7pm
+Jane Smith,7,3,Female,Product Support,3,North,2pm-5pm
+Jimmy Town,13,7,Male,Product Support,5,South,12pm-3pm
+Kate Olsen ,7,4,Female,Complaint,4,South,8am-10am
+Andrea Dean ,20,2,Female,Product Support,3,North,9am-11am
+Heather Green ,11,3,Female,Sales Support,1,South,7pm-9pm
+Dave Trellis ,16,2,Male,Complaint,2,South,5pm-7pm
+John Walker,14,1,Male,Product Support,3,North,2pm-5pm
+Jane Smith,37,2,Female,Product Support,4,South,2pm-5pm
+Jimmy Town,23,7,Male,Complaint,2,North,12pm-3pm
+Kate Olsen ,25,6,Female,Sales Support,2,South,8am-10am
+Andrea Dean ,14,5,Female,Product Support,1,North,9am-11am
+Heather Green ,19,1,Female,Product Support,1,North,7pm-9pm
+Dave Trellis ,20,1,Male,Product Support,1,South,5pm-7pm
+John Walker,1,1,Male,Sales Support,3,North,2pm-5pm
+Jane Smith,1,8,Female,Product Support,5,South,2pm-5pm
+Jimmy Town,4,5,Male,Product Support,4,South,12pm-3pm
+Kate Olsen ,25,4,Female,Product Support,5,South,8am-10am
+Andrea Dean ,13,5,Female,Complaint,2,North,9am-11am
+Heather Green ,15,4,Female,Product Support,2,North,7pm-9pm
+Dave Trellis ,8,3,Male,Sales Support,3,North,5pm-7pm
+John Walker,5,2,Male,Complaint,4,North,2pm-5pm
+Jane Smith,14,3,Female,Product Support,4,South,2pm-5pm
+John Walker,26,2,Male,Complaint,4,East,2pm-5pm
+Jane Smith,16,9,Female,Sales Support,1,East,12pm-3pm
+Jimmy Town,25,5,Male,Product Support,1,East,8am-10am
+Kate Olsen ,7,4,Female,Product Support,2,East,9am-11am
+Andrea Dean ,13,4,Female,Product Support,4,East,7pm-9pm
+Heather Green ,3,5,Female,Sales Support,4,East,5pm-7pm
+Dave Trellis ,10,5,Male,Product Support,4,East,2pm-5pm
+John Walker,2,1,Male,Product Support,4,East,12pm-3pm
+Jane Smith,3,1,Female,Product Support,4,East,8am-10am
+John Walker,12,4,Male,Complaint,5,West,9am-11am
+Jane Smith,7,5,Female,Product Support,2,West,7pm-9pm
+Jimmy Town,21,3,Male,Sales Support,5,West,5pm-7pm
+Kate Olsen ,13,8,Female,Complaint,4,West,2pm-5pm
+Andrea Dean ,18,7,Female,Product Support,1,West,2pm-5pm
+Heather Green ,3,8,Female,Product Support,1,West,12pm-3pm
+Dave Trellis ,9,7,Male,Complaint,2,West,8am-10am
+John Walker,0,1,Male,Sales Support,2,West,9am-11am
+Jane Smith,9,4,Female,Product Support,4,West,7pm-9pm
+John Walker,33,2,Male,Product Support,4,West,5pm-7pm
+Jane Smith,11,3,Female,Product Support,1,West,2pm-5pm
+Jimmy Town,1,1,Male,Sales Support,3,West,2pm-5pm
+Kate Olsen ,27,1,Female,Product Support,5,West,12pm-3pm
+Andrea Dean ,1,4,Female,Product Support,2,West,8am-10am
+Heather Green ,15,10,Female,Product Support,1,West,9am-11am
+Dave Trellis ,13,3,Male,Complaint,2,West,7pm-9pm
+John Walker,3,4,Male,Sales Support,5,West,5pm-7pm
+Jane Smith,23,2,Female,Product Support,2,West,2pm-5pm
+John Walker,19,9,Male,Product Support,2,West,2pm-5pm
+Jane Smith,20,3,Female,Product Support,2,West,12pm-3pm
+Jimmy Town,5,5,Male,Complaint,1,West,8am-10am
+Kate Olsen ,9,4,Female,Product Support,3,West,9am-11am
+Andrea Dean ,10,2,Female,Sales Support,2,West,7pm-9pm
+Heather Green ,14,3,Female,Complaint,1,West,5pm-7pm
+Dave Trellis ,3,2,Male,Product Support,3,West,2pm-5pm
+John Walker,5,1,Male,Complaint,2,West,2pm-5pm
+Jane Smith,7,2,Female,Sales Support,2,West,2pm-5pm
+John Walker,1,4,Male,Product Support,3,West,12pm-3pm
+Jane Smith,3,4,Female,Product Support,4,West,8am-10am
+Jimmy Town,4,5,Male,Product Support,3,West,9am-11am
+Kate Olsen ,5,10,Female,Sales Support,1,West,7pm-9pm
+Andrea Dean ,8,1,Female,Sales Support,5,West,5pm-7pm
+Heather Green ,1,3,Female,Product Support,3,West,2pm-5pm
