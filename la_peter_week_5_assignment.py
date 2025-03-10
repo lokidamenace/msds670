@@ -112,14 +112,20 @@ fig, ax1 = plt.subplots(figsize=(10, 5))
 color1 = 'steelblue'
 color2 = 'orange'
 
+width = 0.6
+
 ax1.set_xlabel('Time Window')
 ax1.set_ylabel('Call Volume')
-ax1.bar(time_window_analysis.index, time_window_analysis['call_count'], color=color1, alpha=0.7, label='Call Volume')
+ax1.bar(time_window_analysis.index, time_window_analysis['call_count'], color=color1, alpha=0.7, width=width, label='Call Volume')
 
 ax2 = ax1.twinx()
 ax2.set_ylabel('Average Wait Time (minutes)', color=color2)
 ax2.plot(time_window_analysis.index, time_window_analysis['avg_during_call_wait'],
          color=color2, marker='o', linestyle='-', label='During Call Wait Time')
+
+ax1.tick_params(axis="x", rotation=45)
+ax1.grid(axis="y", linestyle="--", alpha=0.7)
+ax2.grid(False)
 
 fig.suptitle('Correlation Between Call Volume and Wait Times by Time Window')
 ax1.legend(loc='upper left')
